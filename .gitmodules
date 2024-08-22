@@ -1,3 +1,6 @@
 [submodule "api-backend"]
 	path = api-backend
 	url = git@github.com:sharath03skbs/api-NodeJS.git
+[submodule "client"]
+	path = client
+	url = git@github.com:sharath03skbs/client-NodeJS.git
